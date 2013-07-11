@@ -173,7 +173,7 @@
 
         <!-- Mirage theme, @mire contributed theme, default since DSpace 3.0 -->
         <!-- <theme name="The gallery theme" regex="^browse$" path="gallery/" /> -->
-        <theme name="Default Atmire Mirage" regex=".*" path="MirageMod/" />
+        <theme name="MirageMod" regex=".*" path="MirageMod/" />
 
         <!-- Reference theme, the default Manakin XMLUI layout up to DSpace 1.8 -->
         <!-- <theme name="Default Reference Theme" regex=".*" path="Reference/" /> -->
