@@ -100,8 +100,7 @@
     <orderEntry type="library" name="Maven: org.dspace:dspace-api-lang:3.0.2" level="project" />
     <orderEntry type="library" name="Maven: ant-contrib:ant-contrib:1.0b3" level="project" />
     <orderEntry type="library" name="Maven: org.dspace:dspace-xmlui-lang:war:3.0.2" level="project" />
-    <orderEntry type="module" module-name="dspace-xmlui" />
-    <orderEntry type="module" module-name="dspace-xmlui" />
+    <orderEntry type="library" name="Maven: org.dspace:dspace-xmlui:war:3.1" level="project" />
     <orderEntry type="library" name="Maven: org.dspace:dspace-xmlui:classes:3.1" level="project" />
     <orderEntry type="library" name="Maven: org.apache.cocoon:cocoon-core:2.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.cocoon:cocoon-spring-configurator:1.0.2" level="project" />

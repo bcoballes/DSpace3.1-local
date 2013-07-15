@@ -519,11 +519,8 @@
                 -->
                 <!-- brian aljer 2013-07-12 -->
                 <div id="ds-footer-left">
-                    Ateneo de Manila University <br />
-                    High School <br />
-                    Educational Media Center <br />
-                    Loyola Heights, Katipunan Avenue, Quezon City 1108 <br />
-                    Philippines
+                    Ateneo de Manila University | High School | Educational Media Center | Loyola Heights, Katipunan Avenue, Quezon City 1108 | Philippines <br />
+                    Copyright 2013. All right reserved.
                 </div>
                 <div id="ds-footer-right">
                     <!-- brian aljer 2013-07-12
@@ -532,8 +529,6 @@
                     <span id="ds-footer-logo">&#160;</span>
                     </a>
                     -->
-                    <!-- brian aljer 2013-07-12 -->
-                    Copyright 2013. All rights reserved.
                 </div>
                 <div id="ds-footer-links">
                     <a>
