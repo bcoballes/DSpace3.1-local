@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dspace:dspace-xmlui:war:3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dspace/modules/xmlui/target/war/work/org.dspace/dspace-xmlui/META-INF/maven/org.dspace/dspace-xmlui/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/dspace/modules/xmlui/target/war/work/org.dspace/dspace-xmlui/META-INF/maven/org.dspace/dspace-xmlui/dspace-xmlui-3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/dspace/modules/xmlui/target/war/work/org.dspace/dspace-xmlui/META-INF/maven/org.dspace/dspace-xmlui/dspace-xmlui-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

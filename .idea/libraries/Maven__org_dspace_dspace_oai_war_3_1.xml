@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.dspace:dspace-oai:war:3.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dspace/modules/oai/target/war/work/org.dspace/dspace-oai/META-INF/maven/org.dspace/dspace-oai/pom.xml!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/dspace/modules/oai/target/war/work/org.dspace/dspace-oai/META-INF/maven/org.dspace/dspace-oai/dspace-oai-3.1-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/dspace/modules/oai/target/war/work/org.dspace/dspace-oai/META-INF/maven/org.dspace/dspace-oai/dspace-oai-3.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
